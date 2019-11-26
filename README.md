@@ -26,7 +26,7 @@ Model performance on validation set:
     Recall:     94.5%
     Accuracy:   96.4%
 
-Model performance on validation set:
+Model performance on testing set:
 
     Precision:  No record
     Recall:     No record
