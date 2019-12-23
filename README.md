@@ -12,7 +12,7 @@ Requirement:
 
 This is a implementation of a kaggle competition --[Histopathologic Cancer Detection](https://www.kaggle.com/c/histopathologic-cancer-detection/overview)  
 
-For some reson, just a part of data is uesd.  
+The dataset provided in the repo is just a part of complete dataset. Full dataset can be downloaded from Kaggle.
 
 With the help of fast.ai and built-in model of pytorch, one can reach good performance without a lot of works.  
 
